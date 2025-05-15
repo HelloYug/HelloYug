@@ -5,7 +5,7 @@
     </td>
     <td valign="middle">
       <h1 align="center">Hi 👋, I'm Yug Agarwal</h1>
-      <h3 align="center">B.Tech CSE (AI) | Aspiring AI Developer | Python Enthusiast | Problem Solver</h3>
+      <h3 align="center">B.Tech CSE (AI) | AI Enthusiast | Python Developer | Problem Solver</h3>
       <hr>
       <h3>👨‍💻 About Me:</h3>
       <p>
