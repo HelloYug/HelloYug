@@ -17,7 +17,7 @@
         <li>✍🏾 <strong>Have a look at my Portfolio:</strong> <a href="https://helloyug.github.io/" target="_blank">Portfolio</a></li>
         <li>💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/yugagarwal704/" target="_blank">Yug Agarwal</a></li>
         <li>💻 <strong>View Projects:</strong> <a href="https://github.com/HelloYug?tab=repositories" target="_blank">Visit my Repositories</a></li>
-        <li>💻 <strong>My Resume:</strong> <a href="https://github.com/HelloYug/HelloYug/blob/main/YugAgarwal.pdf" target="_blank">Visit my Repositories</a></li>
+        <li>💻 <strong>My Resume:</strong> <a href="https://github.com/HelloYug/HelloYug/blob/main/YugAgarwal.pdf" target="_blank">Resume link</a></li>
       </ul>
     </td>
   </tr>
