@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="320px" valign="center" align="center">
-      <img src="https://github.com/HelloYug/HelloYug/blob/main/YugAgarwalPFP (1).jpg" width="300px" style="border-radius:50%;" alt="Yug Agarwal's avatar" />
+      <img src="https://github.com/HelloYug/HelloYug/blob/main/YugAgarwalPFP (1).jpg" width="100%" style="border-radius:50%;" alt="Yug Agarwal's Image" />
     </td>
     <td valign="middle">
       <h1 align="center">Hi 👋, I'm Yug Agarwal</h1>
@@ -17,7 +17,7 @@
         <li>✍🏾 <strong>Have a look at my Portfolio:</strong> <a href="https://helloyug.github.io/" target="_blank">Portfolio</a></li>
         <li>💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/yugagarwal704/" target="_blank">Yug Agarwal</a></li>
         <li>💻 <strong>View Projects:</strong> <a href="https://github.com/HelloYug?tab=repositories" target="_blank">Visit my Repositories</a></li>
-        <li>💻 <strong>My Resume:</strong> <a href="https://github.com/HelloYug/HelloYug/blob/main/YugAgarwal.pdf" target="_blank">Resume link</a></li>
+        <li>📄 <strong>My Resume:</strong> <a href="https://helloyug.github.io/resume.html" target="_blank">Resume link</a></li>
       </ul>
     </td>
   </tr>
