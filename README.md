@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="320px" valign="center" align="center">
-      <img src="https://github.com/HelloYug/HelloYug/blob/main/YugAgarwalPFP (1).jpg" width="100%" style="border-radius:50%;" alt="Yug Agarwal's Image" />
+      <img src="https://github.com/HelloYug/HelloYug/blob/main/Profile Images/YugAgarwalPFP (1).jpg" width="100%" style="border-radius:50%;" alt="Yug Agarwal's Image" />
     </td>
     <td valign="middle">
       <h1 align="center">Hi 👋, I'm Yug Agarwal</h1>
