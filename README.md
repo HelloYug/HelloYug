@@ -9,7 +9,7 @@
       <hr>
       <h3>👨‍💻 About Me:</h3>
       <p>
-        I'm a highly motivated second-year Computer Science student specializing in Artificial Intelligence. With hands-on experience in Python, Java, and C/C++, I focus on building innovative, real-world AI and automation-based projects. My exposure to industry through internships and active family business involvement has sharpened both my technical and business acumen. I'm driven by a passion for problem-solving and a desire to build scalable tech solutions that make a real difference.
+        I'm a highly motivated third-year Computer Science student specializing in Artificial Intelligence. With hands-on experience in Python, Java, and C/C++, I focus on building innovative, real-world AI and automation-based projects. My exposure to industry through internships and active family business involvement has sharpened both my technical and business acumen. I'm driven by a passion for problem-solving and a desire to build scalable tech solutions that make a real difference.
       </p>
 <hr>
       <h3>🌎 Find me around the web:</h3>
@@ -32,8 +32,8 @@
 
 ---
 
-### 📊 GitHub Stats:
+<!-- ### 📊 GitHub Stats:
 <p align="center">
   <img width="350px" src="https://github-readme-stats.vercel.app/api?username=helloyug&show_icons=true&locale=en" alt="helloyug" />
   <img width="350px" src="https://github-readme-streak-stats.herokuapp.com/?user=helloyug&" alt="helloyug" />
-</p>
+</p> -->
