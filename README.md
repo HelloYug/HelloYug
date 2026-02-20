@@ -36,7 +36,7 @@
 
 ---
 
-### 📊 <b>GitHub Stats</b>
+<!-- ### 📊 <b>GitHub Stats</b>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=helloyug&theme=dark&show_icons=true&hide_border=false&count_private=true" 
@@ -52,4 +52,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloyug&theme=dark&show_icons=true&hide_border=false&layout=compact" />
-</p>
+</p> -->
