@@ -21,7 +21,7 @@
         <li>✍🏾 <strong>Portfolio:</strong> <a href="https://helloyug.github.io/" target="_blank">Visit my Portfolio</a></li>
         <li>💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/yugagarwal704/" target="_blank">Connect on LinkedIn</a></li>
         <li>💻 <strong>GitHub Repositories:</strong> <a href="https://github.com/HelloYug?tab=repositories" target="_blank">View my Projects</a></li>
-        <li>📄 <strong>Resume:</strong> <a href="https://helloyug.github.io/resume.html" target="_blank">Open Resume</a></li>
+        <li>📄 <strong>Resume:</strong> <a href="https://helloyug.github.io/yug-agarwal-software-engineer-resume" target="_blank">Open Resume</a></li>
       </ul>
     </td>
   </tr>
