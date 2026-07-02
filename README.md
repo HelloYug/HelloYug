@@ -27,7 +27,7 @@ I'm a highly motivated fourth-year Computer Science student specializing in Arti
 - 💡 Open to collaborating on innovative AI solutions
 - 📫 Reach me at: **yugagarwal704@gmail.com**
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 ## 🛠️ Tech Stack
 
@@ -77,31 +77,19 @@ I'm a highly motivated fourth-year Computer Science student specializing in Arti
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
-## 📊 LeetCode Statistics
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/yugagarwal704?theme=dark&font=source_sans_pro" alt="yugagarwal704 LeetCode Stats" />
-</p>
-
----
-
-## 📈 GitHub Stats
+## 📊 Statistics
 
 <div align="center">
+  
+  <img src="https://leetcard.jacoblin.cool/yugagarwal704?theme=dark&font=source_sans_pro" height="180px" alt="yugagarwal704 LeetCode Stats" />
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=helloyug&theme=dark&show_icons=true&hide_border=false&count_private=true" height="180px" alt="GitHub Stats"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=helloyug&theme=dark&hide_border=false" height="180px" alt="GitHub Streak" />
-</div>
-
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloyug&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
-</div> -->
-
----
-
-## 📊 GitHub Activity Graph
-
-<p align="center">
+  
+  <br><br>
+  
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloyug&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" /> -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=helloyug&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
+
+</div>
