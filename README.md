@@ -7,10 +7,10 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=B.Tech+CSE+Student;Automation+Enthusiast+%F0%9F%A4%96;Python+Developer+%F0%9F%90%8D;Problem+Solver+%F0%9F%92%A1;Building+Scalable+Solutions)](https://git.io/typing-svg)
   
   <p align="center">
-    <a href="https://helloyug.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+    <a href="https://yugagarwal.dev/?utm_source=github&utm_medium=repository&utm_campaign=account_readme" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
     <a href="https://www.linkedin.com/in/yugagarwal704/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://github.com/HelloYug?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-    <a href="https://helloyug.github.io/yug-agarwal-software-engineer-resume" target="_blank"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume"/></a>
+    <a href="https://resume.yugagarwal.dev" target="_blank"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume"/></a>
   </p>
 </div>
 
